@@ -1,0 +1,34 @@
+.meu-favoritos{
+    margin-top: 25px;
+    width: 80%;
+
+
+}
+.meu-favoritos h1{
+    margin-bottom: 15px;
+    text-align: center;
+}
+.meu-favoritos span{
+    font-size: 18px;
+}
+.meu-favoritos ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-betweens;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+
+.meu-favoritos a{
+    text-decoration: none;
+    color: #116feb;
+    margin-right: 15px;
+}
+.meu-favoritos div button{
+    border: 0;
+    outline: none;
+    padding: 12px;
+    cursor: pointer;
+}

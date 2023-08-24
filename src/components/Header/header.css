@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    height: 62px;
+    background-color: black;
+    font-weight: bold;
+}
+.logo{
+    text-decoration: none;
+    font-size: 30px;
+    cursor: pointer;
+    color: aliceblue;
+}
+    .favoritos{
+        text-decoration: none;
+        font-size: 20x;
+        cursor: pointer;
+        background-color: aliceblue;
+        color: black;
+        font-weight: bold;
+        border-radius: 5px;
+    
+    
+    }

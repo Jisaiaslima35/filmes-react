@@ -1,0 +1,18 @@
+.not-found{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    max-width: 100%;
+
+}
+.not-found a{
+    text-decoration: none;
+    background-color: #116feb;
+    color: #fff;
+    padding: 10px;
+    margin-top: 14px;
+}

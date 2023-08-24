@@ -1,0 +1,415 @@
+// 20230823112528
+// https://api.themoviedb.org/3/movie/now_playing?api_key=854ef6ccf32507aa784d9d13d0820594&language=pt-BR
+
+{
+  "dates": {
+    "maximum": "2023-08-21",
+    "minimum": "2023-07-04"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/jZIYaISP3GBSrVOPfrp98AMa8Ng.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14,
+        10749
+      ],
+      "id": 976573,
+      "original_language": "en",
+      "original_title": "Elemental",
+      "overview": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+      "popularity": 3816.744,
+      "poster_path": "/cfXO8gMTz484ItS0AANhGS4v4b5.jpg",
+      "release_date": "2023-06-14",
+      "title": "Elementos",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1273
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 667538,
+      "original_language": "en",
+      "original_title": "Transformers: Rise of the Beasts",
+      "overview": "Transformers: O Despertar das Feras traz mais uma aventura épica pelo universo dos transformers. Ambientada nos anos 1990, o filme apresentará os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.",
+      "popularity": 1861.519,
+      "poster_path": "/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+      "release_date": "2023-06-06",
+      "title": "Transformers: O Despertar das Feras",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2885
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+      "genre_ids": [
+        35,
+        12,
+        14
+      ],
+      "id": 346698,
+      "original_language": "en",
+      "original_title": "Barbie",
+      "overview": "No mundo mágico das Barbies, \"Barbieland\", uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza está no interior de cada um.",
+      "popularity": 1657.458,
+      "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
+      "release_date": "2023-07-19",
+      "title": "Barbie",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 3281
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zN41DPmPhwmgJjHwezALdrdvD0h.jpg",
+      "genre_ids": [
+        28,
+        878,
+        27
+      ],
+      "id": 615656,
+      "original_language": "en",
+      "original_title": "Meg 2: The Trench",
+      "overview": "Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.",
+      "popularity": 1525.116,
+      "poster_path": "/8tBhAn6qVRQzf5yvEcxjgPMgTkw.jpg",
+      "release_date": "2023-08-02",
+      "title": "Megatubarão 2",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 537
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 298618,
+      "original_language": "en",
+      "original_title": "The Flash",
+      "overview": "Quando Barry usa seus superpoderes para viajar no tempo e mudar os eventos do passado. Mas quando tenta salvar sua família e acaba, sem querer, alterando o futuro, Barry fica preso em uma realidade na qual o General Zod está de volta, ameaçando colocar o mundo em risco, e não há super-heróis a quem recorrer.",
+      "popularity": 1644.009,
+      "poster_path": "/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",
+      "release_date": "2023-06-13",
+      "title": "The Flash",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 2426
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 884605,
+      "original_language": "en",
+      "original_title": "No Hard Feelings",
+      "overview": "Uma jovem falida é contratada para namorar um adolescente introvertido e socialmente desajeitado, que está se preparando para a faculdade.",
+      "popularity": 1316.015,
+      "poster_path": "/en47PkDX8IhtQA3i1MYslx8eH91.jpg",
+      "release_date": "2023-06-15",
+      "title": "Que Horas Eu Te Pego?",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 791
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hPcP1kv6vrkRmQO3YgV1H97FE5Q.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 614479,
+      "original_language": "en",
+      "original_title": "Insidious: The Red Door",
+      "overview": "Josh Lambert segue para o leste para deixar seu filho, Dalton, na faculdade. Mas demônios reprimidos do passado voltam repentinamente para assombrar os dois.",
+      "popularity": 1150.057,
+      "poster_path": "/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg",
+      "release_date": "2023-07-05",
+      "title": "Sobrenatural: A Porta Vermelha",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 935
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bz66a19bR6BKsbY8gSZCM4etJiK.jpg",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "id": 1006462,
+      "original_language": "en",
+      "original_title": "The Flood",
+      "overview": "Os jacarés famintos impedem uma fuga valente de uma prisão durante uma tempestade ameaçadora.",
+      "popularity": 1387.872,
+      "poster_path": "/tbyhg1DxQkkKUmQ60x7dqGxPvt1.jpg",
+      "release_date": "2023-07-14",
+      "title": "The Flood",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 147
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nYDPmxvl0if5vHBBp7pDYGkTFc7.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 709631,
+      "original_language": "en",
+      "original_title": "Cobweb",
+      "overview": "Um menino que ouve vozes em sua cabeça decide soltá-las em seus pais abusivos.",
+      "popularity": 1354.629,
+      "poster_path": "/vgi2RPVkOXddyUvAb7lavvfIufl.jpg",
+      "release_date": "2023-07-19",
+      "title": "TOC TOC TOC: Ecos do Além",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 178
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7drO1kYgQ0PnnU87sAnBEphYrSM.jpg",
+      "genre_ids": [
+        16,
+        28,
+        27
+      ],
+      "id": 1083862,
+      "original_language": "ja",
+      "original_title": "バイオハザード：デスアイランド",
+      "overview": "Em San Francisco, Jill Valentine está lidando com um surto de zumbis e um novo T-Virus, Leon Kennedy está no encalço de um cientista DARPA sequestrado e Claire Redfield está investigando um peixe monstruoso que está matando baleias na baía. Acompanhados por Chris Redfield e Rebecca Chambers, eles descobrem que as pistas de seus casos separados convergem para o mesmo local, a Ilha de Alcatraz, onde um novo mal se estabeleceu e aguarda sua chegada.",
+      "popularity": 892.783,
+      "poster_path": "/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
+      "release_date": "2023-06-22",
+      "title": "Resident Evil: Ilha da Morte",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 574
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6IafiYxaqR2MxCnEC29bi6637eo.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        35
+      ],
+      "id": 457332,
+      "original_language": "en",
+      "original_title": "Hidden Strike",
+      "overview": "Quando uma refinaria de petróleo administrada pela China é atacada em Mosul, no Iraque, um empreiteiro de segurança privada chinês é chamado para resgatar os trabalhadores do petróleo.  Ele descobre, no entanto, que o verdadeiro plano dos atacantes é roubar uma fortuna em petróleo e se une a um ex-fuzileiro naval americano para detê-los.",
+      "popularity": 963.59,
+      "poster_path": "/t3vZkkM5G40pUJxUzkz69H777Hm.jpg",
+      "release_date": "2023-07-06",
+      "title": "Projeto Extração",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 606
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 565770,
+      "original_language": "en",
+      "original_title": "Blue Beetle",
+      "overview": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
+      "popularity": 818.179,
+      "poster_path": "/gA6sEygZlszxZZZTR5jD9rfleZO.jpg",
+      "release_date": "2023-08-16",
+      "title": "Besouro Azul",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 182
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lDCIQ1Qe7cRnhZ4ybQVVEbadMZ.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1008042,
+      "original_language": "en",
+      "original_title": "Talk to Me",
+      "overview": "Quando um grupo de amigos descobre como conjurar espíritos usando uma antiga mão embalsamada, eles ficam viciados na nova emoção. Até que um deles vai longe demais e abre a porta para o mundo espiritual.",
+      "popularity": 743.363,
+      "poster_path": "/7U3lC4YnHD8zpeoxbY6Hsj9jyeu.jpg",
+      "release_date": "2023-07-26",
+      "title": "Fale Comigo",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 222
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iJ0UZaC7XW7BUpRQ7OLPZSms8Ou.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        14,
+        878
+      ],
+      "id": 813477,
+      "original_language": "ja",
+      "original_title": "シン・仮面ライダー",
+      "overview": "Um homem é forçado a ter poder e foi destituído de sua humanidade. Uma mulher é cética em relação à felicidade. Takeshi Hongo, o homem que sofreu o processo \"Augment\" feito pela SHOCKER, e Ruriko Midorikawa, uma rebelde da organização, scapam enquanto lutam contra assassinos. O que é a justiça? O que é o mal? Essa violência terá fim? Apesar de seu poder, Hongo tenta permanecer humano. Junto com a liberdade, Ruriko recuperou seu coração. Que caminhos eles escolherão?",
+      "popularity": 706.906,
+      "poster_path": "/rIpGaksuyaPH13QAHtE8ouVgA62.jpg",
+      "release_date": "2023-03-17",
+      "title": "Shin Kamen Rider",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 166
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 872585,
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "A história do físico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial, e o quanto isso mudaria a história do mundo para sempre.",
+      "popularity": 702.066,
+      "poster_path": "/aefB62fAcx2OxoaSWMEPt5ezvHQ.jpg",
+      "release_date": "2023-07-19",
+      "title": "Oppenheimer",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 2134
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        35
+      ],
+      "id": 1040148,
+      "original_language": "en",
+      "original_title": "Ruby Gillman, Teenage Kraken",
+      "overview": "Uma adolescente tímida descobre que faz parte de uma lendária linhagem real dos míticos krakens do mar e que seu destino, nas profundezas dos oceanos, é maior do que ela jamais sonhou.",
+      "popularity": 701.364,
+      "poster_path": "/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
+      "release_date": "2023-06-28",
+      "title": "Ruby Marinho - Monstro Adolescente",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 567
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        28,
+        14,
+        10749
+      ],
+      "id": 496450,
+      "original_language": "fr",
+      "original_title": "Miraculous - le film",
+      "overview": "Marinette Dupain-Cheng, de dezesseis anos, está temendo o primeiro dia de aula, onde ela sofre bullying, não tem amigos e não se encaixa, mas seu mundo vira de cabeça para baixo quando ela é escolhida para se tornar a super-heroína Ladybug e ela conhece seu parceiro Cat Noir.",
+      "popularity": 573.126,
+      "poster_path": "/eZEKKCNW0vI7B7AZNdCAeq2mMAw.jpg",
+      "release_date": "2023-07-05",
+      "title": "Miraculous: As Aventuras de Ladybug - O Filme",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 493
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r54HQwvisSXMfip7oJNhPSWyCK5.jpg",
+      "genre_ids": [
+        28,
+        12,
+        10752
+      ],
+      "id": 1061181,
+      "original_language": "ja",
+      "original_title": "キングダム 運命の炎",
+      "overview": "",
+      "popularity": 591.381,
+      "poster_path": "/lm5LF2eyCcBdCEfvpeyvpujOyPb.jpg",
+      "release_date": "2023-07-28",
+      "title": "キングダム 運命の炎",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 43
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aLpQ3G2LRgXYNrQgUlo6AQRo9R6.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1143190,
+      "original_language": "en",
+      "original_title": "Fear the Night",
+      "overview": "Oito mulheres participam de uma festa em uma fazenda remota nas colinas da Califórnia. Eles são interrompidos pela chegada de invasores mascarados que cercam o local e começam a atirar flechas na casa e nos convidados.",
+      "popularity": 555.625,
+      "poster_path": "/4XLZS2xvdv5rxizzTUVREtRyw95.jpg",
+      "release_date": "2023-07-21",
+      "title": "Fear the Night",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 99
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oqP1qEZccq5AD9TVTIaO6IGUj7o.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12
+      ],
+      "id": 455476,
+      "original_language": "en",
+      "original_title": "Knights of the Zodiac",
+      "overview": "Quando um órfão de rua teimoso em busca de sua irmã sequestrada involuntariamente toca em poderes ocultos, ele descobre que pode ser a única pessoa viva que pode proteger uma deusa reencarnada, enviada para vigiar a humanidade. Ele só se tornará um Cavaleiro do Zodíaco quando puder deixar sua irmã ir e abraçar seu destino.",
+      "popularity": 582.303,
+      "poster_path": "/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg",
+      "release_date": "2023-04-27",
+      "title": "Os Cavaleiros do Zodíaco - Saint Seiya: O Começo",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 752
+    }
+  ],
+  "total_pages": 79,
+  "total_results": 1573
+}

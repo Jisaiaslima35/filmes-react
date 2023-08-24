@@ -1,0 +1,36 @@
+.filme-info{
+    margin-top: 18px;
+    display: flex;
+    flex-direction: column;
+    max-width: 70%;
+    padding: 0 8px;
+}
+.area-button{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.area-button button{
+    margin-right: 12px;
+    margin-left: 0;
+    margin-top: 14px;
+    font-size: 20px;
+    border: 0;
+    outline: none;
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.area-button a{
+    text-decoration: none;
+    color: black;
+    transition: all 0.5s;
+}
+.area-button button:hover{
+    background-color: brown;
+    transition: all 0.5s;
+}
+.area-button img{
+    border: 2px solid red;
+}
